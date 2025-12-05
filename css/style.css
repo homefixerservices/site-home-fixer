@@ -578,6 +578,26 @@
     .header-carousel .header-carousel-item {
         height: 700px;
     }
+
+    .hero-bg-half-1 {
+        display: none;
+    }
+
+    .hero-bg-half-2 {
+        display: none;
+    }
+
+    .hero-section {
+        background-image: none !important;
+    }
+
+    .banner-green {
+        background-color: var(--bs-dark) !important;
+    }
+
+    .banner-orange {
+        background-color: var(--bs-primary) !important;
+    }
 }
 /*** Carousel Hero Header End ***/
 
